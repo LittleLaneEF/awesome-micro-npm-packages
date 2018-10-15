@@ -1,10 +1,10 @@
-# Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 令人敬畏的微型npm包 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of small, focused Node.js modules.
+> 一个小型的，集中于 Node.js 模块的精选列表。
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+*灵感来自 [awesome](https://github.com/sindresorhus/awesome).*
 
-English | [简体中文](./README-zh_CN.md)
+[English](./README.md) | 简体中文
 
 ## Articles
 
